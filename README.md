@@ -76,6 +76,7 @@
 
 * Docker Clusterの導入
 * In-memory Data Gridを活用した分散処理
+* Akka Clusterを利用した業務システム
 
 
 ## 登壇歴
