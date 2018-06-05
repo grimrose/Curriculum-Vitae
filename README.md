@@ -27,8 +27,8 @@
 |                              | Python              | 簡単なプログラミングが可能。                          |
 | フレームワーク or ライブラリ | Skinny Framework    | 2015 年~                                              |
 |                              | ScalikeJDBC         | 2015 年~                                              |
-|                              | Akka                | 2017 年~                                              |
-|                              | Akka Streams        | 2017 年~                                              |
+|                              | Akka                | 2016 年~                                              |
+|                              | Akka Streams        | 2016 年~                                              |
 |                              | Selenium            | Geb であればプログラミングが可能。                    |
 |                              | Node.js             | 簡単なプログラミングが可能。                          |
 |                              | jQuery              | 簡単なプログラミングが可能。                          |
@@ -86,6 +86,7 @@
 | 2018-02-09 | 吉祥寺.pm13                            | [イミュータブルデータ・モデルを 1 年使ってみた](https://nbviewer.jupyter.org/format/slides/github/grimrose/kichijojipm-13/blob/master/LT.ipynb#/)                                                                                |
 | 2018-02-03 | BuriKaigi2018                          | [とあるマーケティング部隊とエンジニアと Scala の導入](https://gist.github.com/grimrose/aacbad883617b025f3300d220e266217)                                                                                                         |
 | 2017-09-08 | Scala 関西 Summit2017                  | [Akka Streams へ移行しとるんやけどちょっと聞いてや](https://nbviewer.jupyter.org/format/slides/github/grimrose/scala-kansai-summit-2017/blob/master/Migration%20to%20Akka%20Streams.ipynb#/)                                     |
+| 2017-07-29 | Scala 福岡 2017                        | [Paradox、はじめてみました](https://grimrose.github.io/scala-fukuoka-2017)                                                                                                                                                       |
 | 2017-06-07 | Workflow Engines Night                 | [とあるマーケティング部隊での digdag の活用事例](https://gist.github.com/grimrose/5bea98db4c82056dad1ab84d6653308e)                                                                                                              |
 | 2017-05-16 | Embulk Meetup Tokyo #3                 | [とあるマーケティング部隊での embulk の活用事例](https://gist.github.com/grimrose/1377fce36840b6ef7536d22dc63e7761)                                                                                                              |
 | 2016-05-21 | JJUG CCC 2016 Spring                   | [十徳ナイフとしての Gradle](https://nbviewer.jupyter.org/format/slides/github/grimrose/JJUG-CCC-2016-Spring/blob/master/Gradle%20as%20Army%20Knife.ipynb#/)                                                                      |
