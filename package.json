@@ -1,0 +1,9 @@
+{
+  "private": true,
+  "devDependencies": {
+    "prettier": "1.13.4"
+  },
+  "scripts": {
+    "format": "prettier README.md --write"
+  }
+}
