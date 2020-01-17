@@ -16,29 +16,37 @@
 
 | 項目                         | 名称                | 備考                                                  |
 | ---------------------------- | ------------------- | ----------------------------------------------------- |
-| OS                           | Linux(CentOS, RHEL) | 手順書もとにインストールが可能。                      |
+| OS                           | -                   | -                                                     |
+|                              | Linux(CentOS, RHEL) | 手順書もとにインストールが可能。                      |
 |                              | Windows             | 手順書もとにインストールが可能。                      |
-| 言語                         | Java                | 1999 年~, Java7 でのプログラミングが可能。            |
+| 言語                         | -                   | -                                                     |
+|                              | Java                | 1999 年~, Java7 でのプログラミングが可能。            |
 |                              | JavaScript          | 1999 年~                                              |
 |                              | Scala               | 2015 年~                                              |
-|                              | PHP                 | 2015 年~                                              |
+|                              | Scala.js            | 2019 年~                                              |
 |                              | TypeScript          | 2015 年~                                              |
+|                              | PHP                 | 2015 ~ 2019 年                                              |
 |                              | Groovy              | 趣味で約 4 年                                         |
 |                              | Python              | 簡単なプログラミングが可能。                          |
-| フレームワーク or ライブラリ | Skinny Framework    | 2015 年~                                              |
+| フレームワーク or ライブラリ | -                   | -                                                     |
+|                              | Skinny Framework    | 2015 年~                                              |
 |                              | ScalikeJDBC         | 2015 年~                                              |
 |                              | Akka                | 2016 年~                                              |
 |                              | Akka Streams        | 2016 年~                                              |
+|                              | Finagle             | 2019 年~                                              |
+|                              | cats             | 2019 年~                                              |
 |                              | Selenium            | Geb であればプログラミングが可能。                    |
 |                              | Node.js             | 簡単なプログラミングが可能。                          |
 |                              | jQuery              | 簡単なプログラミングが可能。                          |
 |                              | Angular             | 簡単なプログラミングが可能。                          |
-|                              | Laravel             | 2016 年~                                              |
-|                              | FuelPHP             | 2015 年~                                              |
-| DB                           | MySQL               | 環境構築から運用保守まで可能。                        |
+|                              | Laravel             | 2016 ~ 2019 年                                        |
+|                              | FuelPHP             | 2015 ~ 2019 年                                        |
+| DB                           | -                   | -                                                     |
+|                              | MySQL               | 環境構築から運用保守まで可能。                        |
 |                              | PostgreSQL          | 環境構築から運用保守まで可能。                        |
 |                              | Oracle              | 手順書をもとにインストールが可能。PL/SQL の経験あり。 |
-| その他                       | Gradle              | plugin の作成が可能。                                 |
+| その他                       | -                   | -                                                     |
+|                              | Gradle              | plugin の作成が可能。                                 |
 |                              | Ansible             | 手順書からの移行が可能。                              |
 |                              | Docker              | 環境構築から運用保守まで可能。                        |
 |                              | Jenkins             | 環境構築から運用保守まで可能。                        |
@@ -57,6 +65,7 @@
   - [2016](http://2016.scalamatsuri.org/ja/staff/)
   - [2017](http://2017.scalamatsuri.org/ja/staff/)
   - [2018](http://2018.scalamatsuri.org/ja/staff/)
+  - [2019](http://2019.scalamatsuri.org/ja/staff/)
 
 - TDDBC のアシスタント
   - Java
@@ -75,14 +84,17 @@
 
 ## やったことはないが興味があるもの
 
-- Kubernetes の導入
-- In-memory Data Grid を活用した分散処理
-- Akka Cluster を利用した業務システム
+- データ分析基盤の構築及び運用
 
 ## 登壇歴
 
 | Date       | Event                                  | Slide                                                                                                                                                                                                                            |
 | ---------- | -------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 2019-10-23 | Airframe Meetup #3                     | [Scala.js and Airframe on Functions Framework](https://paper.dropbox.com/doc/2cFRwrXuX0HeK7sE5Kowy)                                                                                                                              |
+| 2019-05-18 | JJUG CCC 2016 Spring                   | [OpenCensus で始める分散トレーシングと監視](https://docs.google.com/presentation/d/e/2PACX-1vRotoqhMthVJ6fsAnYIAz04M_-W2HFG43Hc88IXRjlx2WI7z9HB6dGJyj6KhRv-iryz-FD5kxyA0vCr/pub)                                                 |
+| 2019-04-03 | OpenCensus meetup vol.1                | [OpenCensus Java で始める OpenCensus](https://docs.google.com/presentation/d/e/2PACX-1vRkJSRrJCd6Kv5uSUltrgyXQFNJCG83vShAkJD1RAkkMhGDjqGKVWLuQZP2NfvZUySbyUYBomMf2y5u/pub)                                                       |
+| 2018-12-04 | JapanContainerDays v18.12              | [OpenCensus と Jaeger で分散トレーシングを見てみよう](https://nbviewer.jupyter.org/format/slides/github/grimrose/japan-container-days-1812/blob/master/slide.ipynb#/)                                                            |
+| 2018-11-10 | Scala 関西 Summit2018                  | [Akka を分散トレーシングで見てみよう](https://nbviewer.jupyter.org/format/slides/github/grimrose/scala-kansai-summit-2018/blob/master/slide.ipynb#/)                                                                             |
 | 2018-02-09 | 吉祥寺.pm13                            | [イミュータブルデータ・モデルを 1 年使ってみた](https://nbviewer.jupyter.org/format/slides/github/grimrose/kichijojipm-13/blob/master/LT.ipynb#/)                                                                                |
 | 2018-02-03 | BuriKaigi2018                          | [とあるマーケティング部隊とエンジニアと Scala の導入](https://gist.github.com/grimrose/aacbad883617b025f3300d220e266217)                                                                                                         |
 | 2017-09-08 | Scala 関西 Summit2017                  | [Akka Streams へ移行しとるんやけどちょっと聞いてや](https://nbviewer.jupyter.org/format/slides/github/grimrose/scala-kansai-summit-2017/blob/master/Migration%20to%20Akka%20Streams.ipynb#/)                                     |
@@ -95,7 +107,11 @@
 
 ## 職務経歴
 
-### 2014/12 - : 人材紹介会社
+### 2019/07 - : 証券会社
+
+職務: バックエンドエンジニア
+
+### 2014/12 - 2019/06: 人材紹介会社
 
 職務: Web アプリケーションエンジニア、データエンジニア
 
