@@ -17,15 +17,15 @@
 | 項目                         | 名称                | 備考                                                  |
 | ---------------------------- | ------------------- | ----------------------------------------------------- |
 | OS                           | -                   | -                                                     |
-|                              | Linux(CentOS, RHEL) | 手順書もとにインストールが可能。                      |
-|                              | Windows             | 手順書もとにインストールが可能。                      |
+|                              | Linux(CentOS, RHEL) | 手順書をもとにインストールが可能。                    |
+|                              | Windows             | 手順書をもとにインストールが可能。                    |
 | 言語                         | -                   | -                                                     |
-|                              | Java                | 1999 年~, Java7 でのプログラミングが可能。            |
-|                              | JavaScript          | 1999 年~                                              |
+|                              | Java                | 2007 年~, Java7 でのプログラミングが可能。            |
+|                              | JavaScript          | 2007 年~                                              |
 |                              | Scala               | 2015 年~                                              |
 |                              | Scala.js            | 2019 年~                                              |
 |                              | TypeScript          | 2015 年~                                              |
-|                              | PHP                 | 2015 ~ 2019 年                                              |
+|                              | PHP                 | 2015 ~ 2019 年                                        |
 |                              | Groovy              | 趣味で約 4 年                                         |
 |                              | Python              | 簡単なプログラミングが可能。                          |
 | フレームワーク or ライブラリ | -                   | -                                                     |
@@ -34,7 +34,7 @@
 |                              | Akka                | 2016 年~                                              |
 |                              | Akka Streams        | 2016 年~                                              |
 |                              | Finagle             | 2019 年~                                              |
-|                              | cats             | 2019 年~                                              |
+|                              | cats                | 2019 年~                                              |
 |                              | Selenium            | Geb であればプログラミングが可能。                    |
 |                              | Node.js             | 簡単なプログラミングが可能。                          |
 |                              | jQuery              | 簡単なプログラミングが可能。                          |
@@ -91,7 +91,7 @@
 | Date       | Event                                  | Slide                                                                                                                                                                                                                            |
 | ---------- | -------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 2019-10-23 | Airframe Meetup #3                     | [Scala.js and Airframe on Functions Framework](https://paper.dropbox.com/doc/2cFRwrXuX0HeK7sE5Kowy)                                                                                                                              |
-| 2019-05-18 | JJUG CCC 2016 Spring                   | [OpenCensus で始める分散トレーシングと監視](https://docs.google.com/presentation/d/e/2PACX-1vRotoqhMthVJ6fsAnYIAz04M_-W2HFG43Hc88IXRjlx2WI7z9HB6dGJyj6KhRv-iryz-FD5kxyA0vCr/pub)                                                 |
+| 2019-05-18 | JJUG CCC 2019 Spring                   | [OpenCensus で始める分散トレーシングと監視](https://docs.google.com/presentation/d/e/2PACX-1vRotoqhMthVJ6fsAnYIAz04M_-W2HFG43Hc88IXRjlx2WI7z9HB6dGJyj6KhRv-iryz-FD5kxyA0vCr/pub)                                                 |
 | 2019-04-03 | OpenCensus meetup vol.1                | [OpenCensus Java で始める OpenCensus](https://docs.google.com/presentation/d/e/2PACX-1vRkJSRrJCd6Kv5uSUltrgyXQFNJCG83vShAkJD1RAkkMhGDjqGKVWLuQZP2NfvZUySbyUYBomMf2y5u/pub)                                                       |
 | 2018-12-04 | JapanContainerDays v18.12              | [OpenCensus と Jaeger で分散トレーシングを見てみよう](https://nbviewer.jupyter.org/format/slides/github/grimrose/japan-container-days-1812/blob/master/slide.ipynb#/)                                                            |
 | 2018-11-10 | Scala 関西 Summit2018                  | [Akka を分散トレーシングで見てみよう](https://nbviewer.jupyter.org/format/slides/github/grimrose/scala-kansai-summit-2018/blob/master/slide.ipynb#/)                                                                             |
